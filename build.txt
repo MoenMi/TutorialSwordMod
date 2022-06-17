@@ -1,0 +1,3 @@
+displayName = Tutorial Sword
+author = Meat
+version = 0.1
